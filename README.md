@@ -1,6 +1,7 @@
 <h1>🔮 Thays Lira 🔮</h1>
 
-<p><img src="URL_DO_ICONE_CORUJA" alt="Ícone de coruja"> <em>"Olá, jovem bruxo!"</em> <img src="URL_DO_ICONE_CORUJA" alt="Ícone de coruja"></p>
+<p><img src="![image](https://github.com/lirathaysbiotech/lirathaysbiotech/assets/135052309/031a1f8a-f590-411e-96ac-e0410c763e8c)
+" alt="Ícone de coruja"> <em>"Olá, jovem bruxo!"</em> <img src="URL_DO_ICONE_CORUJA" alt="Ícone de coruja"></p>
 
 <p>Tenho 31 anos, moro em Recife-PE e sou uma Cientista Animal que descobriu o mundo mágico dos dados! Minha jornada no universo da programação começou durante um projeto de pesquisa, quando me deparei com a necessidade de aprender e utilizar feitiços mais complexos para processar e analisar dados metagenômicos!</p>
 
